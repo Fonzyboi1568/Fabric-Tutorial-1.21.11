@@ -5,11 +5,11 @@
 	"name": "Tutorial Mod",
 	"description": "This is the tutorial mod from Fonzy1568 ",
 	"authors": [
-		"Fonzy"
+		"FonzyBoi1568"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Fonzyboi1568/Fabric-Tutorial-1.21.11"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tutorialmod/icon.png",

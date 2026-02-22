@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube/all",
+  "textures": {
+    "all": "tutorialmod:block/ruby_block"
+  }
+}
